@@ -24,16 +24,7 @@ import _ from 'lodash';
     </li> 
     ))}
   </ul>
-  </nav>
-  
-  // <nav>
-  // <ul className="pagination">
-  // <li className="page-item">
-  // <a className="page-link">4</a>
-  // </li>
-  // </ul>
-  // </nav>
-  
+  </nav>  
     );
 }
  
